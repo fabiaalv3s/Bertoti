@@ -9,8 +9,8 @@ A análise heurística é uma espécie de “inspeção” de usabilidade. Consi
 ## Neste Artigo
 - [Youtube](#Youtube)
 
-### -- Youtube --
-**- POSITIVO**
+## -- Youtube --
+**- ASPECTOS POSITIVOS**
 
 **1.4.13.** Conteúdo ao passar o mouse ou foco:
 
@@ -22,7 +22,6 @@ janela sobre o vídeo é aberta para mostrar uma prévia.
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_1.png)
 
 
-**- POSITIVO**
 
 **1.2.5** Descrição de áudio (pré-gravada):
 
@@ -32,7 +31,6 @@ Auxilia pessoas com déficit auditivo.
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem4.png)
 
 
-**- POSITIVO**
 
 **3.3.1** Erro de identificação - Nível A: 
 
@@ -42,7 +40,6 @@ Auxilia pessoas com déficit auditivo.
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem5.png)
 
 
-**- POSITIVO**
 
 **2.1.4** Atalhos de teclas de caracteres - Nível A:
 
@@ -51,7 +48,6 @@ Auxilia pessoas com déficit auditivo.
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_2.png)
 
 
-**- POSITIVO**
 
 **3.3.6** Prevenção de erros (todos) - Nível AAA:
 
@@ -60,7 +56,6 @@ Auxilia pessoas com déficit auditivo.
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem7.png)
 
 
-**- POSITIVO**
 
 **3.3.5** Ajuda Nível AAA
 -> A ajuda sensível ao contexto está disponível.
