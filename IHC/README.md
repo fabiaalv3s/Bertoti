@@ -30,3 +30,9 @@ Auxilia pessoas com déficit auditivo.
 
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem5.png)
 
+
+**2.1.4** Atalhos de teclas de caracteres - Nível A:
+
+-> O site possui teclas de atalho para executar um vídeo como por exemplo: pressionando a letra C ativa-se a legenda no vídeo, a tecla de espaço inicia ou pausa a reprodução, as setas avançam ou voltam o vídeo em 5 segundos e entre outros
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_2.png)
