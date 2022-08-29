@@ -36,3 +36,24 @@ Auxilia pessoas com déficit auditivo.
 -> O site possui teclas de atalho para executar um vídeo como por exemplo: pressionando a letra C ativa-se a legenda no vídeo, a tecla de espaço inicia ou pausa a reprodução, as setas avançam ou voltam o vídeo em 5 segundos e entre outros
 
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_2.png)
+
+
+**3.3.6** Prevenção de erros (todos) - Nível AAA:
+
+-> Ao realizar uma pesquisa o recurso de prevenção de erros é acionado. Conforme o texto está sendo inserido no campo, são exibidas sugestões sobre o conteúdo pesquisado. (minimiza a entrada de dados)
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem7.png)
+
+
+**3.3.5** Ajuda Nível AAA
+-> A ajuda sensível ao contexto está disponível.
+
+-> O recurso de ajuda oferece suporte amplo, permite que o usuário envie seu feedback diretamente para os responsáveis pelo desenvolvimento ou manutenção do sistema.
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem8.png)
+
+
+
+
+
+
