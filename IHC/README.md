@@ -1,8 +1,15 @@
 # Bertoti
 
 ## Análise heurística
-### -- Youtube --
+A análise heurística é uma espécie de “inspeção” de usabilidade. Consiste em avaliar uma interface para determinar se obedece a princípios pré-determinados – as heurísticas. 
 
+-> Serão analisados, neste artigo, heuristicas positivas e negativas de alguns sites.
+
+
+## Neste Artigo
+- [Youtube](#Youtube)
+
+### -- Youtube --
 **- POSITIVO**
 
 **1.4.13.** Conteúdo ao passar o mouse ou foco:
