@@ -1,6 +1,6 @@
 # Bertoti
 
 ## Análise heurística
-### -> Amazon
+### -> Youtube
 
-![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/sad.png)
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_1.png)
