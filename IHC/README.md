@@ -27,5 +27,6 @@ Auxilia pessoas com déficit auditivo.
 
 -> Se um erro de entrada for detectado automaticamente, o item que está com erro é identificado e o erro é descrito para o usuário em texto.
 -> Cadastro eficiente, para que seja evitado a introdução de dados incorretos.
+
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem5.png)
 
