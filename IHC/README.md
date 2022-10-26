@@ -8,22 +8,21 @@ A análise heurística é uma espécie de “inspeção” de usabilidade. Consi
 
 ## Neste Artigo
 - [Youtube](#Youtube)
+- [Wikipedia](#Wikipedia)
+-
 
-## -- Youtube --
-**- ASPECTOS POSITIVOS**
 
-**1.4.13.** Conteúdo ao passar o mouse ou foco:
+                                                            **ASPECTOS POSITIVOS**
 
--> Onde receber e remover o foco do ponteiro ou o foco do teclado, aciona conteúdo adicional para
-se tornar visível e depois oculto. Ao posicionar o mouse sobre o vídeo em que se tem interesse uma
-janela sobre o vídeo é aberta para mostrar uma prévia.
+### 1.4.13 Conteúdo ao passar o mouse ou foco:
 
+-> Onde receber e remover o foco do ponteiro ou o foco do teclado, aciona conteúdo adicional para se tornar visível e depois oculto. Ao posicionar o mouse sobre o vídeo em que se tem interesse uma janela sobre o vídeo é aberta para mostrar uma prévia.
 
 ![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Screenshot_1.png)
 
 
 
-**1.2.5** Descrição de áudio (pré-gravada):
+### 1.2.5 Descrição de áudio (pré-gravada):
 
 -> A descrição de áudio é fornecida para todo o conteúdo de vídeo pré-gravado em mídia sincronizada. 
 Auxilia pessoas com déficit auditivo.
@@ -32,7 +31,7 @@ Auxilia pessoas com déficit auditivo.
 
 
 
-**3.3.1** Erro de identificação - Nível A: 
+### 3.3.1 Erro de identificação - Nível A: 
 
 -> Se um erro de entrada for detectado automaticamente, o item que está com erro é identificado e o erro é descrito para o usuário em texto.
 -> Cadastro eficiente, para que seja evitado a introdução de dados incorretos.
@@ -41,7 +40,7 @@ Auxilia pessoas com déficit auditivo.
 
 
 
-**2.1.4** Atalhos de teclas de caracteres - Nível A:
+### 2.1.4 Atalhos de teclas de caracteres - Nível A:
 
 -> O site possui teclas de atalho para executar um vídeo como por exemplo: pressionando a letra C ativa-se a legenda no vídeo, a tecla de espaço inicia ou pausa a reprodução, as setas avançam ou voltam o vídeo em 5 segundos e entre outros
 
@@ -49,7 +48,7 @@ Auxilia pessoas com déficit auditivo.
 
 
 
-**3.3.6** Prevenção de erros (todos) - Nível AAA:
+### 3.3.6 Prevenção de erros (todos) - Nível AAA:
 
 -> Ao realizar uma pesquisa o recurso de prevenção de erros é acionado. Conforme o texto está sendo inserido no campo, são exibidas sugestões sobre o conteúdo pesquisado. (minimiza a entrada de dados)
 
@@ -57,7 +56,8 @@ Auxilia pessoas com déficit auditivo.
 
 
 
-**3.3.5** Ajuda Nível AAA
+### 3.3.5 Ajuda Nível AAA
+
 -> A ajuda sensível ao contexto está disponível.
 
 -> O recurso de ajuda oferece suporte amplo, permite que o usuário envie seu feedback diretamente para os responsáveis pelo desenvolvimento ou manutenção do sistema.
@@ -66,6 +66,26 @@ Auxilia pessoas com déficit auditivo.
 
 
 
+### 1.2.6 Língua de Sinais (Pré-gravada)
 
+-> A interpretação da linguagem de sinais é fornecida para todo o conteúdo de áudio pré-gravado em mídia sincronizada.
+
+-> Auxilia pessoas com deficiência auditiva
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras.png) 
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras2.png)
+
+
+
+### 3.1.1 Idioma da página - Nível A
+
+-> A linguagem humana padrão de cada página da Web pode ser determinada programaticamente.
+
+-> Na imagem abaixo é demonstrado o site wikipedia no qual é possível selecionar diferentes 114 idiomas de acordo com sua preferência ou necessidade. A quantidade de traduções e mudanças de idioma são diferentes, depende do assunto que está sendo procurado.
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/idioma1.png)
+
+![](https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/idioma2.png)
 
 
