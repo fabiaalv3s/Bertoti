@@ -74,7 +74,7 @@ Auxilia pessoas com déficit auditivo.
 
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras.png"></p>
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras2.png"></p>
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem1.png"></p>
 
 
 
