@@ -72,9 +72,9 @@ Auxilia pessoas com déficit auditivo.
 
 -> Auxilia pessoas com deficiência auditiva
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras.png"></p>
-
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem1.png"></p>
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/libras2.png"></p>
+
 
 
 
@@ -84,10 +84,9 @@ Auxilia pessoas com déficit auditivo.
 
 -> Na imagem abaixo é demonstrado o site wikipedia no qual é possível selecionar diferentes 114 idiomas de acordo com sua preferência ou necessidade. A quantidade de traduções e mudanças de idioma são diferentes, depende do assunto que está sendo procurado.
 
-<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/idioma1.png"></p>
-
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/idioma2.png"></p>
 
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/idioma1.png"></p>
 
 
 ### 2.4 Navegável
@@ -99,8 +98,19 @@ Auxilia pessoas com déficit auditivo.
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/navegavel.png"></p>
 
 
-### 2.4.2 Título da página -Nível A
+### 2.4.2 Título da página - Nível A
 
 -> As páginas da Web têm títulos que descrevem o tópico ou propósito.
 
-<p align = center> <img src = ""></p>
+-> Nota-se no site do G1 que as notícias possuem títulos autodescritivos.
+
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/noticia.png"></p>
+
+
+### 3.2 Previsível
+
+-> Garante uma identificação consistente de componentes funcionais que aparecem repetidamente dentro de um conjunto de páginas da Web. Se funções idênticas tiverem rótulos diferentes (ou, mais geralmente, um nome acessível diferente) em diferentes páginas da Web, o site será consideravelmente mais difícil de usar. Um bom exemplo disso é o ícone de carrinho de compras, barra de busca, ícone de coração para favoritos e login, todos distribuídos de formas iguais na pagina da web (facilita a navegabilidade do site):
+
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja1png.png"></p>
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja2.png"></p>
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja3.png"></p>
