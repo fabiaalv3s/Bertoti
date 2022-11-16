@@ -30,6 +30,21 @@ Auxilia pessoas com déficit auditivo.
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/Imagem4.png"> </p>
 
 
+### 2.2.6 Tempo limite Nível AAA
+
+-> Os usuários são avisados sobre a duração de qualquer inatividade do usuário que possa causar perda de dados, a menos que os dados sejam preservados por mais de 20 horas quando o usuário não realizar nenhuma ação.
+
+-> A Netflix pergunta: "Você ainda está assistindo...?" para que você não perca seu lugar ou use dados da Internet quando não estiver assistindo a um programa de TV ou filme. O prompt aparece:
+
+- Depois de assistir a 3 episódios de um programa de TV seguidos sem usar nenhum controle do reprodutor de vídeo ou
+
+- Após 90 minutos de observação ininterrupta
+
+Para continuar assistindo, você pode dispensar a mensagem ou desativar a reprodução automática do próximo episódio .
+
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/netflix1.png"> </p>
+
+
 
 ### 3.3.1 Erro de identificação - Nível A: 
 
@@ -114,3 +129,13 @@ Auxilia pessoas com déficit auditivo.
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja1png.png"></p>
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja2.png"></p>
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/loja3.png"></p>
+
+
+
+### 2.4.4 Finalidade do link (no contexto)- Nível A
+
+-> A finalidade de cada link pode ser determinada a partir do texto do link sozinho ou do texto do link junto com seu contexto de link determinado programaticamente, exceto quando a finalidade do link for ambígua para os usuários em geral.
+
+-> No site  Wikipedia nota-se uma navegação contextual, ou seja, aquela que permite ao usuário fazer links com páginas associativas, do mesmo site ou de sites exteriores. São inseridos em palavras ou frases, que poderão e ser clicados e direcionados para páginas com maiores explicações sobre o conteúdo.
+
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/wikipedia.png"></p>
