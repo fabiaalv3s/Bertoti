@@ -14,7 +14,7 @@ A análise heurística é uma espécie de “inspeção” de usabilidade. Consi
 - [G1](#G1)
 - [Centauro](#Centauro)
 - [Kanui](#Kanui)
-- [Netshoes](#Netshoes
+- [Netshoes](#Netshoes)
 - [Fatec](#Fatec)
 
 
