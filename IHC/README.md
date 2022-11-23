@@ -143,3 +143,14 @@ Para continuar assistindo, você pode dispensar a mensagem ou desativar a reprod
 -> No site  Wikipedia nota-se uma navegação contextual, ou seja, aquela que permite ao usuário fazer links com páginas associativas, do mesmo site ou de sites exteriores. São inseridos em palavras ou frases, que poderão e ser clicados e direcionados para páginas com maiores explicações sobre o conteúdo.
 
 <p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/wikipedia.png"></p>
+
+
+### 1.3 Adaptável 
+
+-> Crie conteúdos que possam ser apresentados de diversas formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
+
+-> No site da Fatec por exemplo, o conteúdo de adapta bem quando acessado por Desktop, mas quando acessado via mobile as imagem ficam sobrespostas e distorcidas, o que atrapalha no entendimento e usabilidade do site. 
+
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/fatecbom.png"></p>
+<p align = center> <img src = "https://github.com/fabiaalv3s/Bertoti/blob/main/IHC/imagens/fatecruim1.jpg"></p>
+
