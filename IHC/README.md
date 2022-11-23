@@ -1,18 +1,22 @@
 # Bertoti
 
-## Análise heurística
+## Análise heurística (WCAG/W3C)
 A análise heurística é uma espécie de “inspeção” de usabilidade. Consiste em avaliar uma interface para determinar se obedece a princípios pré-determinados – as heurísticas. 
-
--> Serão analisados, neste artigo, heuristicas positivas e negativas de alguns sites.
 
 
 ## Neste Artigo
 - [Youtube](#Youtube)
+- [Google](#Google)
 - [Wikipedia](#Wikipedia)
--
+- [Netflix](#Netflix)
+- [Gov.br](#Gov.br)
+- [Americanas](#Americanas)
+- [G1](#G1)
+- [Centauro](#Centauro)
+- [Kanui](#Kanui)
+- [Netshoes](#Netshoes)
 
 
-                                                            **ASPECTOS POSITIVOS**
 
 ### 1.4.13 Conteúdo ao passar o mouse ou foco:
 
