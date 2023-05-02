@@ -1,8 +1,8 @@
 public class ContaBancaria {
     private String conta;
-    private int saldo;
+    private double saldo;
 
-    public int depositar(int valor){
+    public double depositar(double valor){
         System.out.println("Depositando...");
         return this.setSaldo(this.getSaldo() + valor);
     }
@@ -12,7 +12,7 @@ public class ContaBancaria {
         return this.conta;
     }
 
-    public int obterSaldo(){
+    public double obterSaldo(){
         System.out.println("Obtendo saldo...");
         return this.getSaldo();
     }
@@ -23,11 +23,11 @@ public class ContaBancaria {
         this.conta = conta;
     }
 
-    public int getSaldo() {
+    public double getSaldo() {
         return saldo;
     }
 
-    public int setSaldo(int saldo) {
+    public double setSaldo(double saldo) {
         this.saldo = saldo;
         return saldo;
     }
